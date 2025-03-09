@@ -8,7 +8,7 @@ import Image from "next/image";
 import {Skeleton} from "@/components/ui/skeleton"
 
 import markdownit from "markdown-it"
-import View from "@/components/view"
+import View from '@/components/View'
 
 const md = markdownit();
 
